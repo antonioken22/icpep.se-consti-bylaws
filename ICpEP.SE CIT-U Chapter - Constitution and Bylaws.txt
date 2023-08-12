@@ -3,91 +3,141 @@ Institute of Computer Engineers of the Philippines
 Student Edition
 Region 7
 CIT-U Chapter
-
+____________________________________________________________
 PREAMBLE 
-______________________________
+We, the members of the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter, implore the aid of Almighty God in order to foster an environment of academic excellence, technological innovation, and professional growth and to establish an organization that embodies our aspirations as future computer engineers. We commit to promoting the common good, enhancing our skills, fostering ethical conduct, and cultivating leadership. We aim to secure for ourselves and our successors the blessings of knowledge, collaboration, and innovation under a regime of respect, integrity, perseverance, and excellence. In pursuit of these ideals, we do ordain and promulgate this Constitution.
+____________________________________________________________
 ARTICLE I. NAME OF ORGANIZATION
-Section 1	The name of the organization shall be the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter.
-	*From this point forward the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter. Shall be referred to as ORGANIZATION. 
-	** Institute of Computer Engineers of the Philippines Student Edition     Region 7 shall be referred to as STUDENT REGIONAL ORGANIZATION. 
-	*** Institute of Computer Engineers of the Philippines Region 7 shall be referred to as REGIONAL ORGANIZATION.
-	****Institute of Computer Engineers of the Philippines shall be referred to as NATIONAL ORGANIZATION
+Section 1	The organization's name shall be the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter.
+	*From this point forward, the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter herein be referred to as STUDENT ORGANIZATION. The STUDENT ORGANIZATION can also be referred to as ICpEP.SE R7 CIT-U Chapter or ICpEP.SE CIT-U Chapter.
+	**Institute of Computer Engineers of the Philippines Student Edition     Region 7 herein be referred to as REGIONAL STUDENT ORGANIZATION. 
+	***Institute of Computer Engineers of the Philippines Region 7 herein be referred to as REGIONAL ORGANIZATION.
+	****Institute of Computer Engineers of the Philippines herein be referred to as NATIONAL ORGANIZATION
+
 ARTICLE II. PURPOSE OF ORGANIZATION
-Section 1 	The purpose of the ORGANIZATION is to provide service to the computer engineering students of Cebu Institute of Technology University. 
-Section 2 	Conduct Activities and Programs to enrich the knowledge and experience computer engineering students.  
-Section 3 	Conduct Activities and Programs to encourage enrollment into computer engineering. 
+Section 1 	To provide service to the computer engineering students of Cebu Institute of Technology - University (CIT-U). 
+Section 2 	To conduct various activities and programs that enrich the knowledge and experience of the computer engineering students of CIT-U.
+Section 3 	To encourage aspiring students from the community to pursue a Bachelor of Science in Computer Engineering at CIT-U.
+
 ARTICLE III. AUTHORITY
-Section 1 	This organization is a branch of the 
-NATIONAL ORGANIZATION and adheres to the bylaws and governing documents of which. 
-Section 2 	This organization shall serve as the liaison of the students to the NATIONAL ORGANIZATION, 
-REGIONAL ORGANIZATION, and 
-REGIONAL STUDENT ORGANIZATION. 
-Section 3	This organization is an Independent student organization under the guidance of the Student Affairs Office and NO OTHER Organization. 
+Section 1 	This organization is a branch of the NATIONAL ORGANIZATION and adheres to the bylaws and governing documents of which. 
+Section 2 	This organization shall serve as the liaison of the students to the NATIONAL ORGANIZATION, REGIONAL ORGANIZATION, and REGIONAL STUDENT ORGANIZATION. 
+Section 3	This organization is an independent student organization under the guidance of the Student Affairs Office (SAO) and no other organization. 
 
 ARTICLE IV. MEMBERSHIP 
-Section 1 	All students under CIT-U Computer Engineering department will be constituents of this ORGANIZATION. 
-Section 2 	All students are encouraged to avail of membership to the NATIONAL ORGANIZATION by paying the membership fee of php 100, or any other prescribed membership fee of the NATIONAL ORGANIZATION. 
-Section 3 	A computer engineering student must not be denied participation in an activity hosted by this ORGANIZATION due to the sole reason that he or she is not a member of the NATIONAL ORGANIZATION.
+Section 1 	All students who are enrolled under the Bachelor of Science in Computer Engineering (BSCpE) at CIT-U shall constitute the STUDENT ORGANIZATION and be referred to as the CIT-U STUDENT Ordinary Members.
+Section 2 	All CpE students are encouraged to avail of membership to the NATIONAL ORGANIZATION by paying the membership fee of Php 150.00 for the new members and Php 100.00 for the renewal of the old members or any other prescribed membership fee by the NATIONAL ORGANIZATION. 
+Section 3 	All CpE students are also encouraged to avail of membership to the STUDENT ORGANIZATION by paying the membership fee of Php 50.00 for the new and the renewing old members or any other prescribed membership fee by the STUDENT ORGANIZATION.
+Section 4 	All CpE Council Officers must avail of membership to the NATIONAL ORGANIZATION and the STUDENT ORGANIZATION. Inability to comply will result in Disciplinary Actions as prescribed in the BYLAWS.
+Section 5 	Aspiring CpE Committee Officers must avail of membership to the NATIONAL ORGANIZATION and the STUDENT ORGANIZATION. It shall be the pre-requisite before becoming a bonafide STUDENT ORGANIZATION Committee Officer.
+Section 6 	If availing membership is within the capability of the CpE students, they shall enroll for both the NATIONAL ORGANIZATION and the STUDENT ORGANIZATION. Suppose the majority (½  + 1) of the availing CpE students decide on a compromise or alternative. In that case, the President shall relax this section by his Executive Order and conform with the settlement until the time specified in the Executive Order.
+Section 7 	An Ordinary Member or a National Member shall not be denied participation in any activity hosted by the STUDENT ORGANIZATION due to the sole reason that he has not availed the membership of the NATIONAL ORGANIZATION or the STUDENT ORGANIZATION.
+Section 8 	CpE students who have successfully availed of the STUDENT ORGANIZATION membership shall be provided discounts and special privileges from the STUDENT ORGANIZATION’s products and services. CpE students who have availed of this membership alone shall be referred to as the Chapter Members. This title is an upgrade from their default title of Ordinary Member.
+Section 9 	CpE students who have successfully availed of the NATIONAL ORGANIZATION membership shall be provided the benefits prescribed by the NATIONAL ORGANIZATION. CpE students who have availed of this membership alone shall be referred to as the National Members. This title is an upgrade from their default title of Ordinary Member.
+Section 10 CpE students who have successfully availed the membership of the NATIONAL ORGANIZATION and the STUDENT ORGANIZATION shall be referred to as the Good Standing Members. This title is an upgrade from their default title of Ordinary Member and the other obtained title, such as the Chapter Member and the National Member.
+Section 11 Being a Chapter Member, National Member, and Good Standing Member has a validity of until the last minute of December 31st of the year upon the issuance of his membership. He may or may not renew his membership for the following year before or after its expiration. The NATIONAL ORGANIZATION still reserves the right to modify and enforce its membership rules which the STUDENT ORGANIZATION shall conform to insofar as to its validity.
+Section 12 While his Chapter Member or National Member or Good Standing Member status is expired, he shall be an Ordinary Member until he renews his membership.
+
 ARTICLE V. OFFICERS 
-Section 1 	The officers of this ORGANIZATION shall be 
+Section 1 	The officers of the ICpEP.SE CIT-U Chapter shall be: 
 PRESIDENT, 
 VICE PRESIDENT-INTERNAL, 
 VICE PRESIDENT-EXTERNAL,
-SECRETARY,
-TRESURER,
-AUDITOR ,
-PIO,
-PRO,
-SSG REPRESENTATIVE(S),
-BATCH REPRESENTATIVE(S), 
-Section 2 	Officers must be students bonafide students of CIT-U, must be students in good standing, and possess good moral character and are subject to the officer guidelines required by SAO.
-Section 3 	Officers must be enrolled computer engineering students and have a residency in the computer engineering department of at least 2 consecutive semesters. Inclusive of the semester they are currently enrolled in and exclusive of summer semesters. 
-Section 4	All officers shall serve a term of 1 Academic Year or until their successors shall be duly elected and qualified. 
-Section 5 	Any officer who, during their term of office, ceases to be active, fails to maintain his standing of good moral character, or ceases to be enrolled as a Computer Engineering student (voluntary or expulsion) shall be removed from office and a replacement shall be elected. 
-Section 6	Any officer subject to Section 5 of Article V. shall inform the President and other members of the organization of his/her predicament.
-Section 7	Any officer inactive for a period of, or over, 60* days shall be qualified under Section 5 of Article V. 
-Section 8	The aforementioned officers and representatives shall compose the CpE Council
+SECRETARY-INTERNAL,
+SECRETARY-EXTERNAL,
+TREASURER,
+AUDITOR,
+PUBLIC INFORMATION OFFICER (PIO),
+PUBLIC RELATIONS OFFICER (PRO),
+SUPREME STUDENT GOVERNMENT 
+(SSG) REPRESENTATIVE(S), and
+BATCH REPRESENTATIVE(S)
+Section 2 	The officers must be enrolled in the Bachelor of Science in Computer Engineering at CIT-U and must have a residency of at least two (2) semesters preceding his Administrative Term with the sole exception of the First Year Batch Representative. Summer terms do not count as one semester. The officers must not be graduating students during the First Semester of their Administrative Term.
+Section 3 	The officers must have a good academic standing, must possess good moral character, and other requirements imposed by the Student Affairs Office (SAO) to this organization.
+Section 4 	The officers must be elected by the constituents of this organization as prescribed in the BYLAWS.
+Section 5 	The Elected Officers shall, upon inauguration, pledge the Oath of Office before serving his term.
+Oath of Office
+I, [Name], having been elected as [Position] of the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter, do solemnly swear that I will faithfully and conscientiously fulfill my duties as an officer of this organization. I will uphold our constitution and bylaws, promote the welfare of my fellow computer engineering students, and contribute to the advancement of our field. I commit to the pursuit of academic excellence, technological innovation, and professional growth and to uphold the values of respect, integrity, perseverance, and excellence. I will serve our organization with utmost dedication, honesty, and responsibility. All these I pledge without mental reservation or purpose of evasion. So help me, God.
+Section 6	 If the Elected Officers are not yet members of the STUDENT ORGANIZATION and the NATIONAL ORGANIZATION, they shall register as soon as possible as prescribed in the BYLAWS.
+Section 7	The Elected Officers shall compose the CpE Council and be referred to as CpE Council Officers.
+Section 8	All CpE Council Officers shall serve one (1) Administrative Term or until their successors shall be duly elected and qualified. A New-Elect or an Appointee shall be the new CpE Council Officer and shall serve the remaining term of the vacated office for the Administration or until his successor shall be duly elected and qualified. CpE Council Officers, upon successful servitude of their office, shall bear the equivalent service of one (1) Administrative Term and shall be recognized at the end of their term through a ceremony or a certificate of recognition signed by the President and his Vice Presidents. 
+Section 9 	Any CpE Council Officer who ceases to be active during his term of office, fails to maintain his good academic standing and moral character or ceases to be enrolled as a Computer Engineering student, voluntary or expulsion, shall be removed from his office, and a qualified replacement shall be elected or appointed by the President. A CpE Council Officer who is successfully removed from the office shall bear the equivalent service of the time deemed fair by the majority (½ + 1) of the remaining CpE Council Officers. A certificate of recognition may or may not be issued by the President, with his signature together with his Vice Presidents on it, upon his departure.
+Section 10	Any CpE Council Officer subjected to Section 9 of this article shall inform the President and the remaining officers, if necessary, of his predicament.
+Section 11	Any CpE Council Officer inactive for over 30 days shall be qualified under Section 9 of this article. 
+Section 12	Vacant or vacated positions must be filled as soon as possible by the order imposed by the President. The New-Elect or the Appointee shall meet the qualifications prescribed and perform according to the abovementioned sections of this article.
 
-ARTICLE VI. MEETINGS
-Section 1 	Regular Meetings shall be held every 1st Friday and 3rd Friday of the month.
-Section 2 	Special meetings may be called by the President or a Majority of the members of the CpE Council. All members must be given a minimum of 24 hours’ notice prior to the meeting time.
+ARTICLE VI. COMMITTEES
+Section 1 The committees of the ICpEP.SE CIT-U Chapter shall be: 
+OVERSEEING COMMITTEE, 
+FINANCE COMMITTEE, 
+INFORMATION COMMITTEE,
+CREATIVES COMMITTEE,
+ENGAGEMENT COMMITTEE,
+LOGISTICS COMMITTEE,
+SPORTS AND CULTURAL COMMITTEE, and
+TRAINING AND SEMINAR COMMITTEE
+Section 2 	All CpE Council Officers are ex-officio subject to be the Committee Heads or Committee Assistant Heads or Committee Secretaries of the abovementioned committees.
+Section 3 	All Good Standing Members are eligible to be members of the abovementioned committees, and they must not be graduating students during the First Semester of their Administrative Term.
+Section 4 	To be an official member of the abovementioned committees, he shall, upon inauguration, pledge the Oath of Office before serving his term.
+Oath of Office
+I, [Name], having been elected as [Position] of the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter, do solemnly swear that I will faithfully and conscientiously fulfill my duties as an officer of this organization. I will uphold our constitution and bylaws, promote the welfare of my fellow computer engineering students, and contribute to the advancement of our field. I commit to the pursuit of academic excellence, technological innovation, and professional growth and to uphold the values of respect, integrity, perseverance, and excellence. I will serve our organization with utmost dedication, honesty, and responsibility. All these I pledge without mental reservation or purpose of evasion. So help me, God.
+Section 5 	The official members shall compose the CpE Committee and be referred to as CpE Committee Officers.
+Section 6 	All CpE Committee Officers shall serve one (1) Administrative Term or until their successors are inducted. An Appointee shall be the new CpE Committee Officer and shall serve the remaining term of the vacated office of the Administrative Term or until his successors are inducted. CpE Committee Officers, upon successful servitude of their office, shall bear the equivalent service of one (1) Administrative Term and shall be recognized at the end of their term through a ceremony or a certificate of recognition signed by the President and his Vice Presidents. 
+Section 7 	Each committee shall be composed of at least zero (0) and a maximum of four (4) members, excluding the ex-officio CpE Council Officers.
+Section 8 	The Committee Head shall define all the roles of his members. If the total number of CpE Council Officers cannot fill the position of the Committee Assistant Head or the Committee Secretary of his committee, he shall appoint from his members.
+Section 9 	Any CpE Committee Officer who ceases to be active during his term of office, fails to maintain his good academic standing and moral character, or ceases to be enrolled as a Computer Engineering student, voluntary or expulsion, shall be removed from the committee, and a qualified replacement may be appointed by the President. A CpE Committee Officer who is successfully removed from the office shall bear the equivalent service of the time deemed fair by the majority (½ + 1) of the remaining CpE Council Officers. A certificate of recognition may or may not be issued by the President, with his signature together with his Vice Presidents on it, upon his departure.
+Section 10	Any CpE Committee Officer subjected to Section 9 of this article shall inform the President and the remaining CpE Council Officers, if necessary, of his predicament.
+Section 11	Any CpE Committee Officer who is inactive for over 30 days shall be qualified under Section 9 of this article. 
+Section 12	Vacant or vacated positions may or may not be filled by the order imposed by the President. The Appointee shall meet the qualifications prescribed and perform according to the abovementioned sections of this article.
 
+ARTICLE VII. MEETINGS
+Section 1 	Regular meetings shall be held every 1st Saturday and 3rd Saturday of the month. It shall only be composed of all the CpE Council Officers. 
+Section 2 	Emergency or special meetings can be mandated by the President or a majority (½ + 1) of the CpE Council Officers. All members must be given at least twenty-four (24) hours of notice before the meeting. It shall only be composed of all the CpE Council Officers and the summoned CpE Committee Officers. 
+Section 3	Joint meetings can be mandated by the President or a majority of the CpE Council Officers. It shall comprise all the CpE Council Officers and all CpE Committee Officers.
+Section 4	The meetings shall be in a quorum (½ + 1 of the total officers) of the composition specified by the nature of the meeting to convene. If the meeting is not in a quorum, the first fifteen (15) minutes of the allotted two (2) hours shall be used to call and invite the absent officers to constitute a quorum. If the meeting is still not in quorum after thirty (30) minutes, the meeting is adjourned.
+Section 5	The meetings shall be initiated at 8:00 PM or by the President's order and shall convene upon a quorum. The meeting, upon a quorum, shall be adjourned after two (2) hours from the initiated time. The President may raise a motion to extend the meeting for an amount of time necessary to finish the meeting’s agenda and shall be approved by the majority (½ + 1) of the present CpE Council Officers to take effect.
+Section 6	If an Officer is going to be absent from the meeting, he shall notify the President in any medium of communication and send his excuse letter afterward. 
+Section 7	Excuse letters shall be sent to the President at least twelve (12) hours before the meeting. The validity of the excuse letter shall be vested upon his decision. Excuse letters submitted after twelve (12) hours will only be entertained if the reason is valid. Invalid excuse letters will render the Officer unexcused. 
+Section 8	If an Officer incurs consecutive unexcused absences, he shall be subject to Disciplinary Actions prescribed in the BYLAWS.
 
+ARTICLE VIII. ADVISOR
+Section 1 	This organization shall have at least one (1) Advisor who is a Bachelor of Science in Computer Engineering graduate working in the industry or academe. Preferably a Faculty Member of the CpE Department at CIT-U.
+Section 2 	The prospective Advisor shall be invited by the President, and upon acceptance, his place in the Advisory Board shall be considered.
+Section 3 	To be an official Advisor for this organization, he shall, upon inauguration, pledge the Oath of Office before serving his term.
+Oath of Office
+I, [Name], as the appointed Advisor of the Institute of Computer Engineers of the Philippines Student Edition Region 7 CIT-U Chapter, do solemnly swear that I will faithfully and conscientiously guide and support the officers and members of this organization. I pledge to uphold the constitution and bylaws of our organization, to foster the welfare of all computer engineering students, and to facilitate the advancement of our field. I commit to promoting academic excellence, technological innovation, and professional growth while embodying and instilling the values of respect, integrity, perseverance, and excellence. I will provide counsel and guidance to our organization with utmost dedication, honesty, and responsibility. All these I pledge without mental reservation or purpose of evasion. So help me, God.
+Section 4 	Advisors shall provide service to this organization for a term of one (1) Administrative Term. An Appointee shall be the new Advisor and shall fulfill a role of an Advisor for the remaining term of the Administration. Upon the successful servitude of his term, the Advisor shall bear the equivalent service of one (1) Administrative Term with this organization. He shall be recognized at the end of his term through a ceremony or a certificate of recognition signed by the President and his Vice Presidents.
+Section 5 	Advisors are allowed to serve this organization for more than one Academic Year. 
+Section 6 	If an Advisor ceases to provide service during his term or fails to abide by the Laws of CIT-U or the Land, he shall be removed from the Advisory Board. If the convicted Advisor is the only remaining Advisor in the Advisory Board and is removed, the President shall seek and invite a qualified Appointee. Advisors successfully removed from the Advisory Board shall bear the equivalent service of the time deemed fair by the majority (½ + 1) of the CpE Council Officers.
+Section 7	Any Advisor subjected to Section 6 of this article shall inform the President and the CpE Council Officers, if necessary, of his predicament.
+Section 8	Any Advisor who fails to provide service for the first 30 days of his term shall be qualified under Section 6 of this article. 
 
+ARTICLE IX. FINANCES
+Section 1 	The Treasurer of the STUDENT ORGANIZATION shall duly collect the membership dues set by NATIONAL ORGANIZATION, and the total amount shall be forwarded to the REGIONAL ORGANIZATION’s Treasurer.
+Section 2 	The Treasurer shall duly collect the membership dues set by the STUDENT ORGANIZATION, and the total amount shall be kept in the treasury.
+Section 3 	Accumulated finances before the last month of the two semesters must be spent for the greater good of this organization and constituents thereof. It shall NOT be used to further personal or political gain. Violation of this Section shall be subject to Disciplinary Actions as prescribed in the BYLAWS.
+Section 4 	Three-fourths (¾) of the accumulated finances in the last month of the two semesters can be spent on the officers’ recreational activities such as team building, leadership training, awarding ceremonies, and the like.
+Section 5 	The Finance Committee shall document all the cash flows of this organization.
+Section 6 	The Auditor, in coordination with the Treasurer, shall create and record the financial statement of this organization’s expenditures during its term. After the President's approval, the financial report shall be published at the end of the administrative period.
+Section 7 	Excess or unused finances shall be carried over to the Next Administration.
 
-ARTICLE VII. ADVISOR
-Section 1 	The ORGANIZATION shall have an Advisor who is a graduate of Computer Engineering either working in the industry or academe. Preferably a masters or doctors degree holder in related a field(s). 
-Section 2 	The Advisor shall be approached by the President, and will be accepted as Advisor with majority approval of the CpE Council. 
+ARTICLE X. DISCIPLINE
+Section 1 	All of this organization’s Advisory Board, CpE Council Officers, CpE Committee Officers, Good Standing Members, Chapter Members, National Members, and Ordinary Members are expected to uphold the rules and regulations of the code of conduct set by CIT-U and the Laws of the Republic of the Philippines. 
+Section 2 	A constituent of the Advisory Board, CpE Council Officers, CpE Committee Officers, Good Standing Members, Chapter Members, National Members, and Ordinary Members who violate the code of conduct and whose act is brought to the attention of this organization shall be subject to investigation. 
+Section 3 	Upon the verdict of the investigation, the offending party may be subject to Disciplinary Actions as prescribed in the BYLAWS. 
+Section 4 	This organization reserves the right to revoke the Advisory Role of any individual on the Advisory Board. This right shall be subject to the CpE Council Officers and Advisory Board present, excluding the Advisor in question. 
+Section 5 	This organization reserves the right to revoke the Role of Office of any individual on the CpE Council and CpE Committee. This right shall be subject to the CpE Council Officers present, excluding the CpE Council Officer or the CpE Committee Officer in question. 
+Section 6	Any constituent of the Advisory Board found guilty of committing a violation or a crime shall be disqualified to be the Advisor of this organization indefinitely. 
+Section 7 	Any constituent of the CpE Council Officers, CpE Committee Officers, Good Standing Members, Chapter Members, National Members, and Ordinary Members found to be guilty of committing a violation or a crime shall be disqualified from being a member of this organization indefinitely. 
 
-ARTICLE VIII. FINANCES
-Section 1 	Membership dues set by the NATIONAL ORGANIZATION shall be duly collected by the ORGANIZATION through the treasurer and will forward said amount in whole to the REGIONAL ORGANIZATION Treasurer. 
-Section 2 	Constituents and members who have not paid their dues shall lose their member-in-good-standing status and after a period of 60* days shall be considered inactive-members. 
-Section 3 	Accumulated Finances must be spent for the greater good of the organization and constituents thereof. It shall NOT be used to further personal or political gain. Violation of this Section will lead to disciplinary action.   
-
-ARTICLE IX. DISCIPLINE
-Section 1 	All members of the of the ORGANIZATION are expected to uphold the rules and regulations of the code of conduct set by CIT-U as well as the laws of the land of the Republic of the Philippines. 
-Section 2 	Members who violate the code of conduct and whose act is brought to the attention of the ORGANIZATION shall be subject to investigation. 
-Section 3 	Upon the verdict of the investigation, the instigating party may be subject to disciplinary action. 
-Section 4 	Any individual found to be guilty of committing a violation will be subject to a membership revaluation. 
-Section 5 	The ORGANIZATION reserves the right to revoke from any individual their officership in the CpE Council. This shall be subject to the CpE Council as a whole excluding the officer in question. 
-Section 6 Vacant or Vacated positions must be filled as soon as possible. 
-
-ARTICLE X. AMENDMENTS AND RATIFICATION
-
-Section 1 	Proposed amendments to this constitution shall be developed by an amendments-and-review committee to be subject for review of the CpE council, and to be made public to all constituents of the ORGANIZATION. Proposed amendments shall be made public two weeks before the meeting it is to be reviewed. 
-Section 2 	Constitution amendments require approval by two-thirds of the voting members of the CpE Council present at the meeting of review.
-Section 3 	The amendment shall take effect after the current term concludes unless otherwise stipulated in the amendment or agreed upon by the CpE council.
-Section 3 	A copy of any amendments to this constitution and a new whole constitution shall be printed, bound and given to the Department chair, the Adviser, and be made public to the constituents of the organization.  
-
-
-
-
-
-
-
-
-
-
+ARTICLE XI. AMENDMENTS AND RATIFICATION
+Section 1 	Proposed amendments to this Constitution shall be developed by an Officer of the CpE Council to be reviewed by the CpE Council Officers and the Advisory Board. Proposed amendments shall be presented to the CpE Council Officers and the Advisory Board through a soft or hard copy of the draft at least twenty-four (24) hours before the meeting that these proposed amendments are to be reviewed and voted upon.
+Section 2 	Constitution amendments require approval by a majority (½ + 1) of the voting members of the CpE Council and the Advisory Board present at the meeting of review.
+Section 3 	The amendment shall take effect after the current term concludes unless otherwise stipulated in the amendment that is agreed upon by the majority (½ + 1) of the CpE Council.
+Section 4 	The amendment shall bear the signatories of the Amendment Maker and his Position in the Office, the President, the Vice President-Internal, the Secretary-Internal, the Advisors, and the Department Chair. This may also include the voting members of the CpE Council and the Advisory Board who have voted to AGREE.
+Section 5 	A copy of any amendments to this Constitution and a new whole constitution, upon ratification, shall be printed, bounded, and given to the Department chair and the Advisory Board and shall be made public to the constituents of this organization.  
+Section 6	Separability Clause. Should any provision of this Constitution or any parts thereof be declared invalid, the remaining provisions, insofar as they are separable from the invalid ones, shall remain in full force and effect.
+Section 7	Repealing Clause. Should any provision of this Constitution or any parts thereof be deemed inconsistent with other provisions, the affected provisions, insofar as they are inconsistent, shall be repealed and modified accordingly.
 
 
 
@@ -95,102 +145,163 @@ BYLAWS
 Institute of Computer Engineers of the Philippines
 Student Edition
 Region 7
+CIT-U Chapter
 
-Section I. The officers of the Institute of Computer Engineers of the Philippines Student Edition shall be: 
+Section I. Officers of the CpE Council 
 a.)	PRESIDENT
-b.)	VICE PRESIDENT INTERNAL
-c.)	VICE PRESIDENT EXTERNAL
-d.)	SECRETARY
-e.)	TRESURER
-f.)	AUDITOR
-g.)	PIO
-h.)	PRO
-i.)	SSG REPRESENTATIVE(S)
-j.)	BATCH REPRESENTATIVE(S)
-Section II. Powers and Duties of the officers: 
-a.)	The President shall serve as the chief shall preside at all meetings of the organization and shall prepare the agenda for meetings. The President shall appoint all committees and committee chairs. The President shall have other powers and duties as may be prescribed by the organization.
-b.)	The Vice President Internal shall serve as the 2nd in command to the organization and shall supplement the position of the President in the event of incapacity, absence, or in any form of necessity when the President is not available. The Vice President Internal shall be the liaison of the ORGANIZATION to all the batches and is the head of all the Batch representatives. Anything in relation to internal communication or internal ongoing of the organization, this shall be the responsibility of the VP Internal. 
-c.)	The Vice President External shall serve as the 3rd in command in the organization and shall supplement the position of the President in the event of incapacity, absence, of both the president and the Vice President Internal. The VP External shall serve as the liaison of the ORGANIZATION to other organizations both inside the school and outside. The VP External shall create and bridge useful connections between the ORGANIZATION and other organizations, companies, and initiatives that will benefit the ORGANIZATION and its constituents.
-d.)	The Secretary shall function as the chief scribe and shall keep a record on all the ongoing of the organization. This includes but is not limited to: Processing Letters, writing and submitting minutes of the meeting, and writing narrative reports for accomplished activities. 
-e.)	The Treasurer shall be the master of coin of the organization and shall head all activities in relation to money. All money collected is to be kept safe by the treasurer, and in the event that the ORGANIZATION has a bank account the signatories shall be the Treasurer, the President and the Adviser. 
-f.)	The Auditor shall be a check and balance to the treasurer and shall produce reports of how the money is spent, by whom, and for what. 
-g.)	The Public Information Officer shall be in charge of all information dissemination for the organization and shall be an administrator or moderator in the ORGANIZATION’s facebook page. The PIO will be in charge of creating online content for the organization in all relevant platforms. 
-h.)	The Public Relation Officer shall be in charge of the engagement of the students with the ORGANIZATION. This officer will work together with the PIO to inform and engage the students with opportunities. The PRO will also be in charge of keeping the Bulletin Boards of the Organization updated.
-i.)	SSG REPRESENTATIVE(S) will be the representatives of the CpE department to the Supreme Student Government. As these officers are elected by the SSG and Comelec through a separate election, they are given an immediate position in the CpE Council. 
-j.)	BATCH REPRESENTATIVE(S) will represent each batch in the CpE Council. There will be at least 1 Batch Representative per Batch. 
-Section III. Qualifications to hold office in Institute of Computer Engineers of the Philippines Student Edition Region 7 are as follows: 
-a.)	Must also be qualified under officer guidelines provided by SAO.  
-b.)	Must be a student with residency of at least 2 consecutive semesters as a computer engineering student. (inclusive of the current semester enrolled) 
-c.)	No member shall hold more than one office. 
-d.)	No member shall serve more than 2 years in the same office. 
-Section IV. Elections 
-a.)	Elections are to be held on the 2nd Semester. At least 8 weeks before the end of classes and no later than 4 weeks before the end of classes. 
-b.)	Officers shall be elected by majority vote. If no candidate receives a majority vote, a runoff election shall be held between the two candidates receiving the highest number of votes.
-c.)	 Votes shall be cast by secret ballot; however, when there is only one candidate for an office, a motion may be made to elect the candidate.
-d.)	 Candidates will be asked to submit requirements are deliberated upon by the CpE Council. 
-e.)	 Candidates are preferably without political bias or connection.
-f.)	 All student who are enrolled in Computer Engineering shall be allowed to participate in the election of officers. 
-Section V. Committees  
-a.)	All members of CpE Region 7 council shall be part of a committee. 
-b.)	The list of committees are as follows:
-i.	Overseeing Committee 
-ii.	Engagement committee
-iii.	Information committee
-iv.	Finance Committee 
-c.)	Overseeing committee shall oversee the other committees and will be headed by the President. The overseeing committee will act to guide other members and committees and will be composed of the most experienced members and shall be the smallest committee. 
-d.)	Engagement Committee shall organize and conduct activities that educate and enrich computer engineering students, as well as activities that encouraged camaraderie and growth in the Department and the Organization as a whole. 
-e.)	Information committee shall be in charge of providing information to students through various mediums. Bulletin Boards, Online posts, etc. 
-f.)	Finance Committee shall oversee all finances of the organization, and shall be in charge of the releasing of said finances. This committee shall also head fundraising activities when necessary. 
+b.)	VICE PRESIDENT-INTERNAL
+c.)	VICE PRESIDENT-EXTERNAL
+d.)	SECRETARY-INTERNAL,
+e.)	SECRETARY-EXTERNAL, 
+f.)	TREASURER,
+g.)	AUDITOR,
+h.)	PUBLIC INFORMATION OFFICER (PIO),
+i.)	PUBLIC RELATIONS OFFICER (PRO),
+j.)	SUPREME STUDENT GOVERNMENT (SSG) REPRESENTATIVE(S), and
+k.)	BATCH REPRESENTATIVE(S)
 
-Section VI. Advisor(s)  
-a.)	 The advisor shall help guide the organization and foster connections with relevant people and organizations. 
-b.)	 Advisors shall serve on an A.Y. basis or until their successor has been selected. 
-c.)	 The advisor will actively participate in the organization and it’s activities to the best of his/her activity. 
-d.)	 There must be at Least 2 advisors for this organization in accordance with SAO guidelines.  
-e.)	There will be no limit to the number of advisers to this organization. 
-Section VII. Meetings and Voting 
-a.)	 Regular meetings shall be decided during the first meeting of the Term with the new members of the CpE Region 7 Council.
-b.)	 There will be a minimum of 2 regular meetings per month.
-c.)	Meetings may either be in person, or online. 
-Section VIII. Special Committees  
-a.)	 Special Committees may be established by the CpE Region Council and shall perform such duties as defined in their establishment.
-b.)	 The CpE Region 7 Council shall appoint, and may remove, committee members and a Chairperson for each committee.
-Section IX. Finances
-a.)	 A Membership of php 100 and or any set amount of membership dues by the National Organization shall be collected by the individual institutions and forwarded to the Regional Organization. 
-b.)	 As specified by the National Organization. All memberships are valid for 1 year. In the period of Jan 1st that year to Dec. 31st that same year. 
-c.)	 Occasionally the Organization may need to assess a fee or collect money from the membership for special events/purposes. The amount of money collected shall be determined by a majority of the membership at a regularly scheduled meeting.
-d.)	Organization funds shall not be used to forward any personal or political gain. 
-Section X. Discipline of members
-a.)	Misconduct in any form such as, public indecency, theft, prostitution and others states in the Laws of the Republic of the Philippines, as well as in the CIT-U Handbook shall subject any member to disciplinary action. 
-b.)	Any accounts of misconduct shall be reviewed by the Advisor and CpE Council, and they will issue a verdict. Disciplinary actions may include but not be limited to: 
-i.	Barred participation in organized activities 
-ii.	Removal from Office 
-iii.	Removal of membership 
-iv.	Persona Non-Grata, etc.
-c.)	Fines: 
-i.	The ORGANIZATION waives the right to charge any individual a fine of any amount as a form of disciplinary action unless previously agreed upon by the body. (e.g. late fines for showing up to the meeting late.) 
-ii.	When Finances are involved and a party is accused of either stealing the money, or losing the money. If the party is guilty then they must replace the money that was lost or stolen. If not they will be dishonorably discharged and their crime will be made public. 
+Section II. Powers and Duties of the CpE Council Officers 
+a.)	The President shall serve as the head of the organization shall prepare the agenda, and preside over all the organization's meetings. The President shall reserve the power to appoint the Committee Heads and Assistant Heads of each Committee from the CpE Council and shall be agreed by the appointee in order to be official. The President shall also reserve the power to open the modification of the assigned roles and the ex-officio roles of the CpE Council to their respective committees if deemed necessary and shall be voted upon a majority (½ + 1) by the CpE Council present in the meeting to take effect. The President shall have other powers and duties as may be prescribed by this organization. He shall be, ex-officio, the Head of the Overseeing Committee.
+b.)	The Vice President-Internal shall serve as the second-in-command of this organization and shall supplement the position of the President in the event of incapacity, absence, or any form of necessity when the President is not available. He shall be the Acting President if the Office of the President is vacant until a new President is elected and qualified. Anything about internal communication or internal ongoing of this organization shall be the responsibility of the VP-Internal. 
+c.)	The Vice President-External shall serve as this organization's third-in-command and supplement the President's position in the event of incapacity, or absence, of both the President and the Vice President-Internal. The VP-External shall serve as this organization's liaison to other organizations, student and non-student, inside and outside the school. The VP-External shall create and bridge valuable connections between this organization and other organizations, companies, and initiatives that will benefit this organization and its constituents. 
+d.)	The Secretary-Internal shall function as the Chief Scribe. He shall keep a record of all the ongoing internal matters of this organization. These shall include but are not limited to processing and responding to incoming letters and writing and storing minutes of the meeting. 
+e.)	The Secretary-External shall function as the Deputy Chief Scribe. He shall keep a record of all the ongoing external matters of this organization. These shall include but are not limited to writing and responding to outgoing letters and writing and storing reports for the accomplished activities. 
+f.)	The Treasurer shall be the master of the coin of this organization and shall head all activities about money. All money collected shall be kept safe by the treasurer, and if this organization has a bank account, the signatories shall be the Treasurer, the President, and an Advisor from the Advisory Board. He shall be, ex-officio, the Head of the Finance Committee.
+g.)	The Auditor shall be the treasurer's check and balance and produce reports of how the money is spent, by whom, and for what. He shall be, ex-officio, the Assistant Head of the Finance Committee.
+h.)	The Public Information Officer (PIO) shall oversee all information dissemination from this organization. He shall ensure that all outgoing information from this organization is accurate and factual.
+i.)	The Public Relations Officer (PRO) shall be in charge of improving the branding of this organization and its reputation among its constituents and partner organizations. He shall ensure that this organization maintains healthy ties with its partners.
+j.)	Supreme Student Government (SSG) Representative(s) will represent this organization and the CpE Department to the CIT-U Supreme Student Government. As the CIT-U SSG and CIT-U COMELEC elected these officers through a separate election, they shall, ex officio, fill this exclusive position in the CpE Council. 
+k.)	Batch Representative(s) shall represent each year-level batch to the CpE Council and vice-versa. There will be at least zero (0) and at most two (2) Batch Representatives per Year Level.
 
-d.)	 Inactivity & Negligence: 
-i.	If an officer is absent from a regular meeting, he will be issued a warning and will be asked to explain the reason of his absence. 
-ii.	If an officer is absent from 2 consecutive regular meetings, he will be contacted by the president or whoever is delegated the task. In the event that no response is given within 7 days. The Council will consider the member as INACTIVE and will seek a replacement. 
-iii.	In the event that the vacated position is a Batch Representative, the batch will be contacted and will decide on their new representative. 
-Section XI. Impeachment
-Any member may initiate officer removal by the following procedure.
-a. Petition CpE Council with signature of 1/3 of all voting members. Petition should state reason for removal 
-b. CpE Council with shall then notify all members and call for removal vote within fourteen days of filing the petition if it is found to be valid.  
-c. Memberships shall be notified at least one week prior to removal vote meeting 
-d. At the meeting for removal, the petition stated grievances shall be made public and the officer charged shall be allowed to respond to the charges of the petition 
-e. Removal from office shall require a vote of 2/3 of all voting members of the Council. 
-Section XII. Vacancy of Office 
-a.)	 In case of resignation or removal of any officer, an interim acting officer shall be appointed by the CpE Council. 
-b.)	The President shall call for an election within fourteen days after vacancy of any office. 
-c.)	Elections shall be conducted as stated in the bylaws. 
-d.)	Should the office of President become vacant, the Vice-President should complete the President's unexpired term and call for an election for Vice-President consistent with elections process set forth in the bylaws.
-Section XIII. Amendments 
-a.)	Proposed amendments to these bylaws shall be presented to the membership, in writing, one meeting prior to the meeting where the amendment will be voted upon. 
-b.)	Bylaw amendments require approval by two-thirds of the voting members present at a regular meeting. The amendment shall be effective upon the next term unless otherwise stipulated in the amendment. 
-c.)	A copy of any amendments to these bylaws and a new constitution must be submitted to the the CpE Council as well as all member institutions in Region 7. 
+Section III. CpE Committees
+a.)	OVERSEEING COMMITTEE, 
+b.)	FINANCE COMMITTEE,
+c.)	INFORMATION COMMITTEE,
+d.)	CREATIVES COMMITTEE,
+e.)	ENGAGEMENT COMMITTEE,
+f.)	LOGISTICS COMMITTEE,
+g.)	SPORTS AND CULTURAL COMMITTEE, and
+h.)	TRAINING AND SEMINAR COMMITTEE
+
+Section IV. Roles and Functions of the CpE Committees
+a.)	The Overseeing Committee shall oversee the other committees and be headed by the President. The overseeing committee shall act to guide other Committees. It shall comprise the most experienced members and be the smallest among the other Committees. 
+b.)	The Finance Committee shall coordinate all financial transactions of this organization from the actual and on the books. They shall be in charge of the storage and release of the finances. They shall update the Financial Statement for every inflow and outflow of money. They shall report the monthly financial activities to the President every last day of the month or by his order.
+c.)	The Information Committee shall be in charge of writing the minutes of the meeting and the safekeeping of all written documents. Internal matters shall be their domain. They shall formulate the materials relating to the internal activities of this organization that will be published on Social Media such as Facebook.
+d.)	The Creatives Committee shall be in charge of the design and editing of this organization’s publication materials and documentation. All graphic-related tasks shall be their domain. They shall formulate the materials relating to creative works that will be published on Social Media such as Facebook.
+e.)	The Engagement Committee shall organize connections with potential partners in the industry. External matters shall be their domain. They shall formulate the Sponsorship Letters and the Memorandum of Agreement (MOA) on behalf of the ICpEP.SE CIT-U Chapter and the prospective partners.
+f.)	The Logistics Committee shall be responsible for securing reservations for venues and events and preparing all requirements for such programs and events. Their proximity to the school is their primary characteristic. They shall also act as the hands and the feet of this organization for moving any org-related matters inside and outside the school. 
+g.)	The Sports and Cultural Committee shall promote and advance sports and cultural activities within this organization and its constituents. Physical or contact sports and e-sports shall be their field of expertise.
+h.)	The Training and Seminar Committee shall make available the conduct of all training and seminar-related matters within this organization and its constituents. Their knowledge and wisdom are their strength, especially for the subjects under BSCpE in CIT-U. 
+
+Section V. Election Rules
+a.)	The Elections shall be held in the Second Semester between four (4) weeks before and four (4) weeks after the end of class.
+b.)	The Elections shall be initiated and facilitated by the remaining Officers of the CpE Council. They shall be referred to as the Election Committee and shall be effective until the Inauguration Day.
+c.)	Officers shall be elected by a majority (½ + 1) vote. A runoff election shall be held between the two candidates receiving the most votes if no candidate receives a majority vote.
+d.)	Votes shall be cast by secret ballot; however, when there is only one candidate for an office, a motion by the Election Committee may be made to elect the candidate.
+e.)	An incumbent who decides to run again for office for the next administration shall resign his office and submit the resignation letter to the remaining CpE Council Officer who has the highest position in the office.
+f.)	Candidates must submit requirements to the Election Committee for deliberation. In the case of the First Year Batch Representatives, the new set of CpE Council Officers shall act as the interim Election Committee and shall be the ones who will deliberate the submitted requirements.
+g.)	A separate election for the First Year Batch Representatives shall be held in the First Semester between two (2) weeks and eight (8) weeks after classes start. The Election Rules c.), d.), and f.) shall be applied to the election of the First Year Batch Representatives.  
+h.)	Candidates, elected or not, if caught falsifying their submitted requirements, shall be subject to Disciplinary Actions prescribed in Section XII.
+i.)	All students enrolled in the Bachelor of Science in Computer Engineering (BSCpE) at CIT-U can exercise their right of suffrage in the election of officers.
+
+Section VI. Administrative Term
+a.)	The Administrative Term shall be based on the official collegiate calendar published by CIT-U.
+b.)	The Administrative Term shall start by the Summer Term prior to the effective Academic Year, followed by the First Semester of the effective Academic Year, and shall end at the end of the Second Semester of the effective Academic Year. 
+c.)	An Administrative Term shall be equivalent to one (1) year or twelve (12) months.
+d.)	The Administrative Term of all Officers shall begin, effective immediately, after their Inauguration to their office.
+
+Section VII. Office
+a.)	All CpE Council Officers can only hold one (1) office in the CpE Council and one (1) office in the CpE Committee. 
+b.)	All CpE Committee Officers can only hold one (1) office in the CpE Committee.
+c.)	Each Officer shall be allowed to serve two (2) years in the same office at most.
+
+Section VIII. Meetings
+a.)	The President shall reserve the power to choose the time of the meeting scheduled during the day as long as it favors the Officers who shall be present during the meeting.
+b.)	If the scheduled meeting falls on a holiday or examination day or a day that’s inconvenient to two-thirds (⅔) of the concerned officers, it shall be moved to a different date as per the President’s choosing.
+c.)	Meetings may either be in person or online. If it’s in person, the President shall specify the venue. If it’s online, the default medium shall be MS Teams under this organization’s Main Channel. 
+d.)	The meetings shall follow the City’s Health and Safety Protocols if they are held in person and the Community Guidelines of MS Teams and other video conferencing applications if they are held online. 
+
+Section IX. Special Committees  
+a.)	Special Committees may be established by the Executive Order from the President and shall perform such duties as defined in their establishment. Their merit and demerit shall also be defined in the executive order.
+b.)	The President shall reserve the power to appoint the constituents of the Special Committees.
+c.)	They may or may not be from the constituents of this organization.
+d.)	The appointed constituents of the Special Committees shall be referred to as Special Committee Officers.
+
+Section X. Advisors
+a.)	The Advisors shall help guide this organization and foster connections with relevant people and organizations.
+b.)	The Advisors shall actively participate in this organization’s activities to the best of their ability. 
+c.)	There must be at least one (1) Advisor for this organization or as specified by the guidelines of the Student Affairs Office (SAO) imposed on this organization.
+d.)	There will be no limit to the number of Advisors on this organization’s Advisory Board. 
+
+Section XI. Finances
+a.)	This organization reserves the right to increase or decrease its membership fee for its constituents. The exact amount of the fee shall be determined by a majority (½ + 1) vote of the present officers during the scheduled meeting.
+b.)	This organization reserves the right to assess a fee or collect money from its constituents for special events or purposes. The exact amount of the fee shall be determined by a majority (½ + 1) vote of the present officers during the scheduled meeting.
+c.)	If the total amount of money in the treasury is less than ninety percent (90%) of what’s reflected in the books, the President shall call for an investigation for loss, theft, fraud, or corruption. The perpetrator shall be prosecuted and is subject to Disciplinary Actions prescribed in Section XII. If the perpetrator is not identified until the end of the term, the Finance Committee shall bear the consequences of being the subject of the Disciplinary Actions prescribed in Section XII.
+
+Section XII. Discipline 
+a.)	Misconduct in any form, such as losing or damaging this organization’s property, theft, fraud, corruption, academic dishonesty, bullying, assault, prostitution, and others stated in the Laws of the Republic of the Philippines, as well as in the CIT-U Handbook, shall subject any constituent of this organization to Disciplinary Actions. 
+b.)	Evidence of any account of misconduct shall be reviewed by the CpE Council and by the Advisory Board, and they shall issue a verdict to the alleged perpetrator based upon the strength of the evidence, of the case of the offense, and of the case of the defense. 
+c.)	The alleged perpetrator shall reserve the right to his one (1) counsel of choice for his defense. The accuser shall also reserve the right to his one (1) counsel of choice for his case. The counsel of choice must be a bona fide student in CIT-U.
+d.)	If the alleged perpetrator is proven guilty, Disciplinary Actions shall be acted upon him based on the gravity of his offense. Otherwise, he shall be freed from the charges.
+e.)	Disciplinary Actions may include but not be limited to: 
+i.	Dishonorably discharged from his membership,
+ii.	Dishonorably discharged from his office,
+iii.	Barred participation in all of this organization’s activities, 
+iv.	Punishment deserving from the gravity of the offense, 
+v.	Persona Non-Grata, and
+vi.	Other punishment ordained by the Law.
+f.)	Fines: 
+i.	This organization reserves the right to charge any individual a fine of any amount as a form of Disciplinary Action unless previously agreed upon by the body. (e.g., Late fines for showing up to the meeting late.)  
+ii.	When a party is accused of losing money, they must replace the lost money, and if they cannot do so, they shall be discharged from their office, and the total amount of money they’ve lost shall be made public.
+iii.	When a party is accused of theft, fraud, or corruption, they must replace the stolen money if the party is found guilty, and if they cannot do so, they shall be dishonorably discharged from their office, and their crime shall be made public. 
+g.)	Absenteeism, Inactivity, and Negligence of Duty: 
+i.	If an officer incurred an unexcused absence from a regular meeting, he shall be issued a warning and be asked to explain the reason for his absence. 
+ii.	If a CpE Council Officer incurred unexcused absences from two (2) consecutive regular meetings or two (2) consecutive joint meetings or two (2) meetings that constitute both regular and joint meetings, he shall be contacted by the President or whoever is delegated for the task. If no response is given within seven (7) days, the CpE Council shall consider the Officer INACTIVE.
+iii.	If a CpE Committee Officer incurred unexcused absences from two (2) joint meetings, he shall be contacted by the President or whoever is delegated for the task. If no response is given within seven (7) days, the CpE Council shall consider the Officer INACTIVE.
+h.)	Failure of Organizational Membership:
+i.	If the newly elected or appointed CpE Council Officer fails to avail for the NATIONAL ORGANIZATION and the STUDENT ORGANIZATION’s membership thirty (30) days after being inducted into the office, he shall be issued a warning and be asked to explain the reason for his incompliance. Inability to provide any credible reason, which will be deliberated by the President or whoever is delegated for the task, he shall be subject to removal from office. 
+
+Section XIII. Impeachment
+a.)	Any members of this organization may initiate officer removal by the following procedures:
+i.	Petition to the CpE Council with the signature of one-third (⅓) of all voting members. The petition should state the reason(s) for removal. 
+ii.	The CpE Council shall then notify all members and call for a removal vote within fourteen (14) days of filing the petition only if it is deemed valid by the majority (½ + 1) of the CpE Council Officers.  
+iii.	Members shall be notified at least one week before the removal vote meeting.
+iv.	At the meeting for removal, the petition that stated grievances shall be made public, and the officer charged shall be allowed to respond to the charges of the petition.
+v.	Removal from office shall require a vote of two-thirds (⅔) of the present Officers of the CpE Council during the removal vote meeting. 
+
+Section XIV. Vacancy of Office 
+a.)	In case of resignation or removal of any officer, an interim acting officer shall be appointed by the President or the majority (½ + 1) of the CpE Council. 
+b.)	The President shall call for an election within fourteen (14) days after the vacancy of any office or shall appoint a new officer if an election is an impossibility.
+c.)	If the seat of the President is vacant, the Vice President-Internal shall act as the interim President until a new President is elected or appointed. 
+
+Section XV. Amendments and Ratification
+a.)	Proposed amendments to the Bylaws shall be developed by an Officer of the CpE Council to be reviewed by the CpE Council Officers. Proposed amendments shall be presented to the CpE Council Officers and the Advisory Board through a soft or hard copy of the draft at least twenty-four (24) hours before the meeting that these proposed amendments are to be reviewed.  
+b.)	Bylaws amendments require approval by the majority (½ + 1) of the voting members of the CpE Council and the Advisory Board present at the meeting of review. 
+c.)	The amendment shall take effect after the current term concludes unless otherwise stipulated in the amendment that is agreed upon by the majority (½ + 1) of the CpE Council. 
+d.)	The amendment shall bear the signatories of the Amendment Maker and his Position in the Office, the President, the Vice President-Internal, and the Secretary-Internal. This may also include the voting members of the CpE Council and the Advisory Board who have voted to AGREE.
+e.)	A copy of any amendments to the Bylaws and the new whole Bylaws, upon ratification, shall be printed, bounded, and given to the Department chair and the Advisory Board and shall be made public to the constituents of this organization. 
+f.)	Separability Clause. Should any provision of this Bylaws or any parts thereof be declared invalid, the remaining provisions, insofar as they are separable from the invalid ones, shall remain in full force and effect.
+g.)	Repealing Clause. Should any provision of this Bylaws or any parts thereof be deemed inconsistent with other provisions, the affected provisions, insofar as they are inconsistent, shall be repealed and modified accordingly.
 
 
-These bylaws were adopted on May XX, 2020 and most recently revised on May XX, 2020
+
+
+The  ICpEP.SE R7 CIT-U Chapter’s Constitution and Bylaws were initially adopted on May 13, 2020. The Constitution and Bylaws were most recently revised on July 12, 2023, by the Amendment Maker. Upon review, it garnered a vote of nine out of eleven from the CpE Council Officers and Advisor present, constituting a vote of the majority. Henceforth, the newly revised Constitution and Bylaws of the ICpEP.SE R7 CIT-U Chapter were hereby ratified on July 22, 2023. 
+This shall be the First Amendment of the Constitution and Bylaws and shall be promulgated effective immediately.
+
+Amended by:
+	 
+Kenette John A. Antonio, 
+President, 4th Administration
+
+Acknowledged by:
+
+Kenette John A. Antonio 
+President, 4th Administration
+
+Jayco Belle C. Punay, 					Engr. Julian N. Semblante, 
+Vice President - Internal, 4th Administration			Advisor, 4th Administration
+
+Elle Gabrielle B. Bernante, 				Engr. Roel B. Lauron, PCpE, 
+Secretary - Internal, 4th Administration			Department Chair
+
